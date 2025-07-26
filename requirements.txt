@@ -1,0 +1,15 @@
+flask
+pandas
+xgboost
+scikit-learn
+numpy
+pytesseract
+opencv-python-headless
+pillow
+matplotlib
+requests
+beautifulsoup4
+flask-cors
+gunicorn
+flask-sqlalchemy
+flask-migrate
