@@ -1,0 +1,35 @@
+age;gender;role;position;department;keyword_ads;ad_topic;ad_placement;ad_type;gender_enc;ad_type_enc;ad_topic_enc;ad_placement_enc;click_probability;respond
+32;Female;HR operations;Head of HR;Human Resources;HRIS, Saas, App, Sistem;Technology;Instagram;Banner;0;0;3;0;0.080108084;No
+28;Male;HR operations;Talent recruiter;Human Resources;HRIS, Saas, App, Sistem;Technology;Instagram;Banner;1;0;3;0;0.0864029;No
+45;Female;HR operations;Talent recruiter;Human Resources;HRIS, Saas, App, Sistem;Technology;Instagram;Banner;0;0;3;0;0.13235198;Yes
+35;Male;HR operations;Talent recruiter;Human Resources;HRIS, Saas, App, Sistem;Technology;Instagram;Banner;1;0;3;0;0.13497894;Yes
+26;Female;HR operations;Talent recruiter;Human Resources;HRIS, Saas, App, Sistem;Technology;Instagram;Banner;0;0;3;0;0.05090444;No
+40;Male;HR operations;HR coordinator;Human Resources;HRIS, Saas, App, Sistem;Technology;Instagram;Banner;1;0;3;0;0.15813655;Yes
+30;Female;HR operations;HR manager;Human Resources;HRIS, Saas, App, Sistem;Technology;Instagram;Banner;0;0;3;0;0.05962055;No
+29;Male;HR operations;Onboarding Specialist;Human Resources;HRIS, Saas, App, Sistem;Technology;Instagram;Banner;1;0;3;0;0.08375541;No
+38;Female;HR operations;Onboarding Specialist;Human Resources;HRIS, Saas, App, Sistem;Technology;Instagram;Banner;0;0;3;0;0.12650925;No
+33;Male;HR operations;Talent recruiter;Human Resources;HRIS, Saas, App, Sistem;Technology;Instagram;Banner;1;0;3;0;0.09405491;No
+32;Female;HR operations;Head of HR;Human Resources;HRIS, Saas, App, Sistem;Technology;Instagram;Banner;0;0;3;0;0.080108084;No
+28;Male;HR operations;Talent recruiter;Human Resources;HRIS, Saas, App, Sistem;Technology;Instagram;Banner;1;0;3;0;0.0864029;No
+45;Female;HR operations;Talent recruiter;Human Resources;HRIS, Saas, App, Sistem;Technology;Instagram;Banner;0;0;3;0;0.13235198;Yes
+35;Male;HR operations;Talent recruiter;Human Resources;HRIS, Saas, App, Sistem;Technology;Instagram;Banner;1;0;3;0;0.13497894;Yes
+26;Female;HR operations;Talent recruiter;Human Resources;HRIS, Saas, App, Sistem;Technology;Instagram;Banner;0;0;3;0;0.05090444;No
+40;Male;HR operations;HR coordinator;Human Resources;HRIS, Saas, App, Sistem;Technology;Instagram;Banner;1;0;3;0;0.15813655;Yes
+30;Female;HR operations;HR manager;Human Resources;HRIS, Saas, App, Sistem;Technology;Instagram;Banner;0;0;3;0;0.05962055;No
+29;Male;HR operations;Onboarding Specialist;Human Resources;HRIS, Saas, App, Sistem;Technology;Instagram;Banner;1;0;3;0;0.08375541;No
+38;Female;HR operations;Onboarding Specialist;Human Resources;HRIS, Saas, App, Sistem;Technology;Instagram;Banner;0;0;3;0;0.12650925;No
+33;Male;HR operations;Talent recruiter;Human Resources;HRIS, Saas, App, Sistem;Technology;Instagram;Banner;1;0;3;0;0.09405491;No
+27;Female;HR operations;Talent recruiter;Human Resources;HRIS, Saas, App, Sistem;Technology;Instagram;Banner;0;0;3;0;0.081259735;No
+42;Male;HR operations;Talent recruiter;Human Resources;HRIS, Saas, App, Sistem;Technology;Instagram;Banner;1;0;3;0;0.18651886;Yes
+31;Female;HR operations;Talent recruiter;Human Resources;HRIS, Saas, App, Sistem;Technology;Instagram;Banner;0;0;3;0;0.090104096;No
+25;Male;HR operations;HR coordinator;Human Resources;HRIS, Saas, App, Sistem;Technology;Instagram;Banner;1;0;3;0;0.03229833;No
+48;Female;HR operations;HR manager;Human Resources;HRIS, Saas, App, Sistem;Technology;Instagram;Banner;0;0;3;0;0.035060912;No
+36;Male;HR operations;Onboarding Specialist;Human Resources;HRIS, Saas, App, Sistem;Technology;Instagram;Banner;1;0;3;0;0.12337271;No
+29;Female;HR operations;Onboarding Specialist;Human Resources;HRIS, Saas, App, Sistem;Technology;Instagram;Banner;0;0;3;0;0.06701707;No
+27;Female;HR operations;Talent recruiter;Human Resources;HRIS, Saas, App, Sistem;Technology;Instagram;Banner;0;0;3;0;0.081259735;No
+42;Male;HR operations;Talent recruiter;Human Resources;HRIS, Saas, App, Sistem;Technology;Instagram;Banner;1;0;3;0;0.18651886;Yes
+31;Female;HR operations;Talent recruiter;Human Resources;HRIS, Saas, App, Sistem;Technology;Instagram;Banner;0;0;3;0;0.090104096;No
+25;Male;HR operations;HR coordinator;Human Resources;HRIS, Saas, App, Sistem;Technology;Instagram;Banner;1;0;3;0;0.03229833;No
+48;Female;HR operations;HR manager;Human Resources;HRIS, Saas, App, Sistem;Technology;Instagram;Banner;0;0;3;0;0.035060912;No
+36;Male;HR operations;Onboarding Specialist;Human Resources;HRIS, Saas, App, Sistem;Technology;Instagram;Banner;1;0;3;0;0.12337271;No
+29;Female;HR operations;Onboarding Specialist;Human Resources;HRIS, Saas, App, Sistem;Technology;Instagram;Banner;0;0;3;0;0.06701707;No
